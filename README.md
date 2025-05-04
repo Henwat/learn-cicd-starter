@@ -1,5 +1,5 @@
 # Tests
-![Unit tests result](https://github.com/henwat/learn-cicd-starter/actions/workflows/ci/badge.svg)
+![GitHub Actions](https://github.com/henwat/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 
 # learn-cicd-starter (Notely)
