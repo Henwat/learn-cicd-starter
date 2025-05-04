@@ -1,4 +1,3 @@
-# Tests
 ![GitHub Actions](https://github.com/henwat/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
 
 
